@@ -1,0 +1,105 @@
+| 1       | 230012      | AARAV OSWAL                   | MTH            | CSE                         |
+| 2       | 231065      | SUVID GOEL                    | EE             | CSE                         |
+| 3       | 230015      | AARSH JAIN                    | MTH            | CSE                         |
+| 4       | 230017      | AARUSH NARENDRA GHATE         | EE             | CSE                         |
+| 5       | 230293      | BHAVNOOR SINGH                | ME             | CSE                         |
+| 6       | 231155      | VINAY                         | MTH            | CSE                         |
+| 7       | 231001      | SHVETANG RAO                  | AE             | MTH                         |
+| 8       | 230143      | ANIRVAN TYAGI                 | PHY            | EE                          |
+| 9       | 230719      | OM JI GUPTA                   | CE             | EE                          |
+| 10      | 231097      | THARUN D                      | AE             | EE                          |
+| 11      | 230192      | ARITRA KOLAY                  | ECO            | EE                          |
+| 12      | 230618      | MAHIR JAIN                    | ME             | EE                          |
+| 13      | 230926      | SAPTARSHI MANDAL              | ME             | MTH                         |
+| 14      | 230413      | GAURAV KUMAR RAMPURIA         | MTH            | SDS                         |
+| 15      | 230875      | RONIT KUMAR                   | ES             | EE                          |
+| 16      | 231015      | SOHAM ROYCHOWDHURY            | CHE            | EE                          |
+| 17      | 231180      | WASI HUSAIN                   | ME             | EE                          |
+| 18      | 230084      | ADVAITH GS                    | CHM            | SDS                         |
+| 19      | 230190      | ARIHANT SATPATHY              | ECO            | SDS                         |
+| 20      | 230213      | ARYAN DEO                     | AE             | SDS                         |
+| 21      | 230049      | ABHISHEK L                    | ECO            | MTH                         |
+| 22      | 230168      | ANUBHAB GOSWAMI               | ME             | MTH                         |
+| 23      | 230204      | ARSH JAIN                     | ME             | MTH                         |
+| 24      | 230534      | KARAN KUMAR                   | PHY            | ME                          |
+| 25      | 230030      | ABDUL AHAD ZAREEF             | CE             | MTH                         |
+| 26      | 230185      | ARCHIL MOGRA                  | CHE            | ME                          |
+| 27      | 230243      | AURAV PRATAP SINGH            | CHE            | MTH                         |
+| 28      | 230481      | IDHANT KADELA                 | CHE            | ECO                         |
+| 29      | 230898      | SAKSHAM AGARWAL               | ECO            | MTH                         |
+| 30      | 231120      | VANSH AGARWAL                 | CE             | ME                          |
+| 31      | 230023      | AARYAN TIWARI                 | CE             | ME                          |
+| 32      | 230186      | ARCHIT KUMAR GUPTA            | BSBE           | ECO                         |
+| 33      | 230253      | AYUSH DUBEY                   | CE             | ME                          |
+| 34      | 230940      | SAUMYA SINGHAL                | CE             | ME                          |
+| 35      | 230175      | ANURAG THAKUR                 | CE             | ME                          |
+| 36      | 230216      | ARYAN LAV AGARWAL             | BSBE           | ME                          |
+| 37      | 230580      | KSHITIJ BHARDWAJ              | AE             | ME                          |
+| 38      | 230994      | SHUBH BANSAL                  | CHE            | ECO                         |
+| 39      | 231168      | VISHWAS PATHANIA              | CE             | CHE                         |
+| 40      | 230407      | GAIKWAD JAI GANGADHAR         | AE             | CHE                         |
+| 41      | 231147      | VIDHI VIVEK CHORDIA           | CHM            | ECO                         |
+| 42      | 230031      | ABEER GUPTA                   | MSE            | ECO                         |
+| 43      | 230035      | ABHAY TRIPATHI                | BSBE           | CHE                         |
+| 44      | 230057      | ADARSH RAJ                    | CE             | CHE                         |
+| 45      | 230104      | AKSHAT SWARUP                 | MSE            | CHE                         |
+| 46      | 230256      | AYUSH GOYAL                   | BSBE           | ECO                         |
+| 47      | 230726      | PALAK AGARWAL                 | CE             | CHE                         |
+| 48      | 231170      | VIVEK KUMAR GUPTA             | CE             | ECO                         |
+| 49      | 230154      | ANKIT KUMAR DUBEY             | CE             | ECO                         |
+| 50      | 230570      | KRISH AGARWAL                 | CE             | CHE                         |
+| 51      | 230907      | SANCHIT ARORA                 | AE             | ECO                         |
+| 52      | 230981      | SHOHOM DE                     | MSE            | ECO                         |
+| 53      | 230709      | NITHIN T M                    | CHM            | CHE                         |
+| 54      | 230930      | SARTHAK SINGH                 | ES             | CHE                         |
+| 55      | 231084      | TANVI MANHAS                  | CE             | CHE                         |
+| 56      | 231185      | YASH GARG                     | CE             | CHE                         |
+| 57      | 230314      | CHAITANYA GOEL                | BSBE           | AE                          |
+| 58      | 230749      | PEEYUSH AGARWAL               | CE             | AE                          |
+| 59      | 230383      | DIVYANSH SHUKLA               | BSBE           | MSE                         |
+| 60      | 230397      | ENAKSHI JAIN                  | CE             | AE                          |
+| 61      | 230595      | LAKSH BANSAL                  | CE             | AE                           |
+| 62      | 230137      | ANIKA GUPTA                   | ES             | BSBE                        |
+| 63      | 230178      | ANUSHREE MITTAL               | CE             | AE                          |
+| 64      | 230211      | ARYAMANN SRIVASTAVA           | BSBE           | AE                          |
+| 65      | 230289      | BHARAT KUMAR                  | PHY            | AE                          |
+| 66      | 230484      | ISHAN KAMBOJ                  | BSBE           | AE                          |
+| 67      | 231059      | SURYANSH RASTOGI              | CHM            | AE                          |
+| 68      | 230355      | DEVANSH BHARDWAJ              | CHM            | PHY                         |
+| 69      | 231103      | TUSHAR SRIKRISHNA SRIDHAR     | CHM            | BSBE                        |
+| 70      | 230056      | ADARSH MISHRA                 | ES             | PHY                         |
+| 71      | 230122      | AMIT KUMAR                    | ES             | BSBE                        |
+| 72      | 230370      | DHRUV VIVEKANAND SHETTY       | CHM            | BSBE                        |
+| 73      | 231013      | SNEHASISH HALDAR              | ES             | MSE                         |
+| 74      | 230152      | ANKIT KUMAR                   | BSBE           | CE                          |
+| 75      | 230502      | JAY MUKESH GUPTA              | ES             | MSE                         |
+| 76      | 230081      | ADITYA SRIVASTAVA             | MSE            | PHY                         |
+| 77      | 230240      | ATISHAY JAIN                  | CHM            | CE                          |
+| 78      | 230444      | HARSH GOUR                    | BSBE           | CE                          |
+| 79      | 231156      | VINAYAK DALMIA                | CHM            | BSBE                        |
+| 80      | 230489      | ITESH MISHRA                  | ES             | BSBE                        |
+| 81      | 230609      | M ADNAN KHAN                  | ES             | BSBE                        |
+| 82      | 230054      | ADARSH                        | CHM            | CE                          |
+| 83      | 230109      | VAIBHAV GOVIND ALGULE         | CHM            | MSE                         |
+| 84      | 230816      | PURUSHOTTAM KUMAR             | CHM            | MSE                         |
+| 85      | 231042      | SUBHANKAR SUTRADHAR           | ES             | CE                          |
+| 86      | 230743      | PATHAK PRINCE                 | PHY            | MSE                         |
+| 87      | 231095      | TALADA JASWANTH               | CHM            | BSBE                        |
+| 88      | 231127      | VATSAL MITTAL                 | ES             | BSBE                        |
+| 89      | 230089      | AHMED ADNAN GULAM HASNAIN     | CHM            | MSE                         |
+| 90      | 230093      | AKASH RATHI                   | CHM            | BSBE                        |
+| 91      | 230447      | HARSH PRATAP SINGH            | ES             | CE                          |
+| 92      | 230965      | SHILPA PRAJAPATI              | CHM            | CE                          |
+| 93      | 230968      | SHIVAM KUMAR SHAW             | ES             | BSBE                        |
+| 94      | 230275      | AYUSHI MISHRA                 | ES             | BSBE                        |
+| 95      | 230458      | HARSHIT AGARWAL               | ES             | BSBE                        |
+| 96      | 230586      | KULSHRESHTH CHIKARA           | ES             | CE                          |
+| 97      | 230939      | SAUBHAGYA PANDEY              | ES             | BSBE                        |
+| 98      | 230236      | ASWAAJIEET J M                | CHM            | BSBE                        |
+| 99      | 230985      | SHREEHARI P                   | CHM            | BSBE                        |
+| 100     | 231054      | SUNNY KUMAR                   | PHY            | CE                          |
+| 101     | 230288      | BHARAMBE SARVESH PURUSHOTTAM  | PHY            | CE                          |
+| 102     | 230138      | ANIKEIT KHANNA                | BSBE           | CE                          |
+| 103     | 231106      | UDIT CHOUDHARY                | PHY            | CE                          |
+| 104     | 230366      | DHRUV KUMAR                   | PHY            | CE                          |
+| 105     | 231150      | VIKAS MEENA                   | AE             | CE                          |
