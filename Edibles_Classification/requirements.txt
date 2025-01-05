@@ -1,0 +1,7 @@
+absl-py
+numpy
+tensorflow
+pillow
+streamlit
+pandas
+scikit-learn
